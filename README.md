@@ -18,6 +18,7 @@
 ### 경험
 
 - 2024.02 ~ 2025.08 AI·SW 대학원 직장인 개발자 대상 수학 수업
+- 2024.09 ~ 2024.12 AI 교과 지원 TA
 
 ### 학력 및 교육
 
@@ -65,6 +66,7 @@ My current interests include cryptography, software engineering, and AI theory. 
 ### Experience
 
 - 2024.02 ~ 2025.08 Mathematics Instructor (Calculus, Linear Algebra) for working professionals enrolled in an AI/SW master’s program
+- 2024.09 ~ 2024.12 TA for support AI Class
 
 ### Education and Training
 
